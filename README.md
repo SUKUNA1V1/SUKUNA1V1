@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on Machine Learning <br>👯 I’m looking to collaborate on IA COMMUNITY <br>🤝 I’m looking for help with BUILDING IA TOOLS<br>🌱 I’m currently learning JS AND MORE PYTHON <br>💬 Ask me about ANIME <br>⚡ Fun fact STILL BAD AT VIBE CODING 
 
 
