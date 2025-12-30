@@ -1,8 +1,8 @@
 #  About Me:
-🔭 I’m currently working on Machine Learning <br>👯 I’m looking to collaborate on IA COMMUNITY <br>🤝 I’m looking for help with BUILDING IA TOOLS<br>🌱 I’m currently learning JS AND MORE PYTHON <br>💬 Ask me about ANIME <br>⚡ Fun fact STILL BAD AT VIBE CODING 
+ I’m currently working on Machine Learning <br> I’m looking to collaborate on IA COMMUNITY <br> I’m looking for help with BUILDING IA TOOLS<br> I’m currently learning JS AND MORE PYTHON <br> Ask me about ANIME <br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_sukuna1v1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Sukuna_1v1) 
 
 # 💻 Tech Stack:
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sukuna1v1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
